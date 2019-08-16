@@ -7,7 +7,7 @@
  *
  */
 
-#include "HybridBrinkmanTest.h"
+#include "HybridStokesTest.h"
 #include "TPZHybridStokesMaterial.h"
 #include "pzcheckgeom.h"
 #include "pzstack.h"

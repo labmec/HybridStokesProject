@@ -12,7 +12,7 @@
 #include "pzanalysis.h"
 #include "pzbndcond.h"
 #include "StokesTest.h"
-#include "HybridBrinkmanTest.h"
+#include "HybridStokesTest.h"
 #include "TPZStokesMaterial.h"
 #include <pzgeoel.h>
 #include "pzgeoelbc.h"

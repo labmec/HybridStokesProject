@@ -123,5 +123,5 @@ endif()
 
 include_directories(.)
 
-add_subdirectory(CreepStokes)
+add_subdirectory(HybridStokes)
 #file(COPY DFN_data DESTINATION MHM_Frac)
